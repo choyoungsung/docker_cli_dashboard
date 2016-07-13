@@ -1,8 +1,8 @@
-Here is an execution file	http://bit.ly/ralf_dcs
+Here is an execution file	http://bit.ly/dcs_
 
 * Download 및 설치
 ```
-curl -sL bit.ly/ralf_dcs -o ./dcs
+curl -sL bit.ly/dcs_ -o ./dcs
 sudo chmod 755 ./dcs
 sudo mv ./dcs /usr/bin/dcs
 ```
@@ -45,8 +45,8 @@ purge
 ```
 
 2016/07/13- update
-1. 사용하지 않는 Volume 삭제기능 추가
-2. In-line command 입력방식 지원
+ 1. 사용하지 않는 Volume 삭제기능 추가
+ 2. In-line command 입력방식 지원
 
 * dcs 내부에서 clean 또는, dcs clean 형태로 사용하지 않는 Volume 정리
 ```
